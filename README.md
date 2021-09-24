@@ -1,6 +1,6 @@
 ### Junya Yoshida(TokyoYoshida)
 
-[![Junya Yoshida GitHub stats](https://github-readme-stats.vercel.app/api?username=TokyoYoshida)]
+![Junya Yoshida GitHub stats](https://github-readme-stats.vercel.app/api?username=TokyoYoshida)
 
 <!--
 **TokyoYoshida/TokyoYoshida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
