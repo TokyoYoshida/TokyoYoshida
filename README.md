@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 ### Blogs
 
-Twitter: https://twitter.com/jugemjugemjugem
-Qiita: https://qiita.com/TokyoYoshida
-Note: https://note.com/tokyoyoshida
+Twitter: https://twitter.com/jugemjugemjugem<BR>
+Qiita: https://qiita.com/TokyoYoshida<BR>
+Note: https://note.com/tokyoyoshida<BR>
